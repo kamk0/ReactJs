@@ -1,0 +1,12 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    width: 78%;
+    height: 100%;
+    padding-left: 2%;
+    padding-top: 20px;
+}
+.content__img {
+    width: 200px;
+}
